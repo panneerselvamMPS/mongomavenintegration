@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: mongomavenintegration
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: staffdb
+
+server:
+  port: 8081
